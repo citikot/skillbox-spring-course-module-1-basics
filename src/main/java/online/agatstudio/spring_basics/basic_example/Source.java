@@ -1,4 +1,4 @@
-package online.agatstudio.basic_example;
+package online.agatstudio.spring_basics.basic_example;
 
 public class Source {
 

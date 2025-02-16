@@ -1,4 +1,4 @@
-package online.agatstudio.context_example;
+package online.agatstudio.spring_basics.context_example;
 
 import java.text.MessageFormat;
 

@@ -1,4 +1,4 @@
-package online.agatstudio.context_example;
+package online.agatstudio.spring_basics.context_example;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

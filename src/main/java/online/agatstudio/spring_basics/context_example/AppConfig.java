@@ -1,10 +1,10 @@
-package online.agatstudio.context_example;
+package online.agatstudio.spring_basics.context_example;
 
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 
 @ComponentScan
+// комбинированное создание бинов - при помощи аннотаций и при помощи джавы
 public class AppConfig {
 
     @Bean

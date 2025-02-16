@@ -1,8 +1,5 @@
-package online.agatstudio.context_example;
+package online.agatstudio.spring_basics.context_example;
 
-import org.apache.commons.logging.Log;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 @Component
