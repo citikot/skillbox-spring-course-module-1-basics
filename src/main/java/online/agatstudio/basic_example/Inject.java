@@ -1,4 +1,4 @@
-package online.agatstudio;
+package online.agatstudio.basic_example;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

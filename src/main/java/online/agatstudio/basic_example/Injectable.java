@@ -1,4 +1,4 @@
-package online.agatstudio;
+package online.agatstudio.basic_example;
 
 public class Injectable {
 
