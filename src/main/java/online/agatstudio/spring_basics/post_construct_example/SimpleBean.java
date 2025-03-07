@@ -1,4 +1,4 @@
-package online.agatstudio;
+package online.agatstudio.spring_basics.post_construct_example;
 
 import org.springframework.beans.factory.BeanNameAware;
 import org.springframework.stereotype.Component;
