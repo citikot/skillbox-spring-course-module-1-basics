@@ -3,7 +3,7 @@ package online.agatstudio.spring_basics.spring_context;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 
-@ComponentScan("online.agatstudio")
+@ComponentScan("online.agatstudio.spring_basics.spring_context")
 public class AppConfig {
 
     @Bean
