@@ -1,4 +1,4 @@
-package online.agatstudio;
+package online.agatstudio.spring_basics.spring_context;
 
 import org.springframework.stereotype.Component;
 
