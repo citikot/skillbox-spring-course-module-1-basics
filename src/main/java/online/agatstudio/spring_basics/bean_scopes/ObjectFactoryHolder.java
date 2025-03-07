@@ -1,4 +1,4 @@
-package online.agatstudio;
+package online.agatstudio.spring_basics.bean_scopes;
 
 import org.springframework.beans.factory.ObjectFactory;
 import org.springframework.stereotype.Component;
