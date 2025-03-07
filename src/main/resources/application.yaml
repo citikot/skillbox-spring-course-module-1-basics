@@ -1,0 +1,13 @@
+app:
+  person:
+    name: Ivan
+    surname: Ivanov
+    age: 40
+  env: prod
+
+spring:
+  profiles:
+    active: prod
+
+
+
